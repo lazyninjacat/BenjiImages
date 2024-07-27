@@ -70,7 +70,6 @@ bookshelf, furniture
 dresser, furniture 
 nightstand, furniture
 lamp, furniture
-all, toy
 doll, toy
 blocks, toy
 puzzle, toy
